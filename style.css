@@ -1,0 +1,39 @@
+body {
+    padding: 40px;
+    font-family: 'Montserrat', sans-serif;
+    background: #f6f6f6fa;
+   
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 40px;
+    
+}
+
+.main-content {
+    background-color: #fff;
+    padding-left: 88px;
+    padding-right: 88px;
+    padding-top: 102px;
+    padding-bottom: 102px;
+    box-sizing: border-box;
+
+}
+
+aside {
+    padding-top: 40px;
+    background-color: #E0EBFE;
+}
+
+
+span {
+    color: #6D9BF5;
+}
+
+.contacts, .tech-skills, .soft-skills {
+    padding-left: 40px;
+
+}
